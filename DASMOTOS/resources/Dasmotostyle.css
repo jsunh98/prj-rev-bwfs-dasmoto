@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica;
+  border-style: solid;
+  border-top: 3px;
+  border-bottom: 3px;
+  border-left: 3px;
+  border-right: 3px;
+  border-width: medium;
+  border-color: red;
+}
+.title {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("pattern.jpeg");
+  background-size: 150%;
+}
+.brushes  {
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.frames {
+  background-color: lightcoral;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.paint {
+  background-color: skyblue;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#price {
+  font-weight: bold;
+  color: blue;
+}
